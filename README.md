@@ -11,11 +11,11 @@
 >- [github](https://github.com/saklain-mustak1)  
 >- [Linkedin](https://www.linkedin.com/in/saklain-mustak1/)  
 >- [facebook](https://www.facebook.com/saklain.mustak2)
->
->- ## Discription
->
->#
+ ## Discription 
+- Read this [file](https://github.com/saklain-mustak1/face-detection/blob/main/DECLARATION_merged.pdf) for more information
+
+#
 #  
-># **Thank You**
+# **Thank You**
 *for your interest on my repository*
 ##
